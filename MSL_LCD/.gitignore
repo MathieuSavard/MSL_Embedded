@@ -1,0 +1,7 @@
+/.settings/
+/Debug/
+/Tests/Ceedling/build
+/Tests/Ceedling/src
+/Tests/Ceedling/test
+/Tests/Ceedling/vendor
+/Tests/Ceedling/ceedling.cmd
